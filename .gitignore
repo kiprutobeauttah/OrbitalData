@@ -1,0 +1,22 @@
+# Julia related
+*.jl.cov
+*.jl.mem
+*.jl.*.cov
+*.jl.*.mem
+*.jlso
+Manifest.toml
+
+# Output and artifacts
+/output/
+*.png
+*.html
+*.csv
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.DS_Store
+
+# OS
+Thumbs.db

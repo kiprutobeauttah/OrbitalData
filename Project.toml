@@ -1,0 +1,11 @@
+name = "OrbitalData"
+uuid = "2b8a6e9a-9f3b-4f7b-9cdd-000000000002"
+authors = ["Beauttah Kipruto"]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Dates = "8bb1440f-2f85-5d0f-9c25-9a1c3f0aa1b7"
+Statistics = "ade2ca70-3891-59d0-9f3c-0c0a8a5f7a9b"
+PlotlyJS = "f0f68f2c-4968-5e81-91d2-9a5b6ff3b1e8"
