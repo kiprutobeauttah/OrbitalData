@@ -1,5 +1,6 @@
-# OrbitalData.jl
+# OrbitalData
 
+<img src = "assets/orbital-cover.jpg">
 **Satellite Telemetry Parser & Visualizer**
 
 This package parses CSV telemetry, computes basic derived metrics, and saves both interactive HTML plots and an augmented CSV.  
@@ -31,3 +32,5 @@ OrbitalData/
 ├── data/sample_telemetry.csv
 └── examples/demo.jl
 ```
+---
+_powered by Beauttah_
